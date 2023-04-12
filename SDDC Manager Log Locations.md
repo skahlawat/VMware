@@ -48,7 +48,7 @@ Anything to do with the following:
 ###### Other Directories:
 
 Directory | Description
----|---
+:---|:---
 `ceip` | This has the VMware Customer Experience Improvement Program info.
 `commonsvcs` | This is kind of a dump all. If you are troubleshooting some API issues the `vcf-commonsvcs.log` might have the info you need.
 `pantheon` | This has to do with the SDDC Federation.
