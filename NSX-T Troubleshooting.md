@@ -294,6 +294,5 @@ View the number of packets dropped on a host switch	nsxdp-cli swsec get stats -d
 ---
 
 [NSX-T Command line Reference](https://vdc-download.vmware.com/vmwb-repository/dcr-public/cc42e3c1-eb34-4567-a916-147e79798957/8264605c-a5e1-49a8-b603-cc78621eeeab/cli.html)
-[[BGP Troubleshooting]]
 [NSX-T Command Line Cheat Sheet](https://www.simongreaves.co.uk/nsx-t-command-line-cheat-sheet/)
 
